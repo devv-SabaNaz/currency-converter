@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=header&text=Currency%20Converter&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Money%20Conversions%20Made%20Simple&descAlignY=62&descSize=15" width="100%" alt="Currency Converter"/>
 
@@ -8,8 +8,8 @@ A clean and interactive currency converter built with **HTML, CSS & JavaScript**
 
 <br/>
 
-<a href="YOUR_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-8A5CF6?style=for-the-badge" alt="Live Demo"/>
+<a href="https://devv-sabanaz.github.io/currency-converter/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8A5CF6?style=for-the-badge" alt="Live Demo"/>
 </a>
 
 <br/><br/>
@@ -24,11 +24,11 @@ A clean and interactive currency converter built with **HTML, CSS & JavaScript**
 
 ## ✨ Features
 
-* 💵 Convert an entered amount between supported currencies
+* 💵 Convert amounts between supported currencies
 * 🌍 Select currencies with flag icons
 * ⚡ Interactive UI powered by JavaScript
 * 🌐 Exchange-rate API integration
-* 📱 Responsive and user-friendly design
+* 📱 Responsive, user-friendly design
 
 ## 🛠️ Built With
 
